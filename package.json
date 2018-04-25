@@ -1,0 +1,14 @@
+{
+	"name": "nodejs",
+	"version": "1.0.0",
+	"description": "node js tutorial",
+	"main": "index.js",
+	"scripts": {
+		"test": "node index.js"
+	},
+	"author": "Bhumesh",
+	"license": "ISC",
+	"dependencies": {
+		"lodash": "^4.17.5"
+	}
+}
