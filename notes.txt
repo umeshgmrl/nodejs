@@ -1,3 +1,8 @@
 nodemon
 express
 shakeer.storm@gmail.com
+
+es6
+arrow functions in js
+./ (current folder) is not working in fs.stat
+express framework nodejs
