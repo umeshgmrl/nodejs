@@ -6,3 +6,11 @@ es6
 arrow functions in js
 ./ (current folder) is not working in fs.stat
 express framework nodejs
+
+ternery operator
+callback function
+
+es6 distraction
+
+postman tool
+body-parser module
